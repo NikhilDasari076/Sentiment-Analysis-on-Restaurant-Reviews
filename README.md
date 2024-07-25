@@ -10,7 +10,7 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
 
 **Data**
 
-The dataset consists of restaurant reviews labeled as positive or negative. The reviews are provided in a CSV (Tab-Separated Values) file.
+The dataset consists of restaurant reviews labeled as positive or negative. The reviews are provided in a CSV file.
 
 **Preprocessing**
 
