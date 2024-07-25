@@ -26,7 +26,7 @@ Preprocessing steps include:
 
 **Models**
 
-We use the following machine learning models:
+ Used the following machine learning models:
 
 **Logistic Regression**: A simple yet effective model for binary classification tasks.
 
